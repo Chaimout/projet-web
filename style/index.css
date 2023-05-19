@@ -4,9 +4,10 @@
 }
 
 .accueil-photos h2 {
-  color: #242424;
+  color:palevioletred;
   text-align: center;
   margin-bottom: 80px;
+  font-size: 100px ;
 }
 
 .accueil-photos div {
@@ -34,10 +35,14 @@
 
 .accueil-introduction h1 {
   margin-bottom: 15px;
+  text-align: center;
 }
 
 .accueil-introduction p {
-  margin-bottom: 30px;
+  text-align: center;
+  box-shadow:  inset ;
+  border-radius: 10px;
+
 }
 
 .accueil-introduction div {
